@@ -1,0 +1,35 @@
+{
+  "name": "prettier-config-webcoti",
+  "version": "0.0.0",
+  "description": "shareable config for prettier",
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "repository": "webcoti/prettier-config",
+  "license": "MIT",
+  "author": "Fabiano Nunes Parente",
+  "main": "index.js",
+  "files": [
+    ".prettierrc.js"
+  ],
+  "scripts": {
+    "release": "np"
+  },
+  "eslintConfig": {
+    "extends": "webcoti"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.1.1",
+    "prettier-plugin-packagejson": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-webcoti": "^1.0.0",
+    "np": "^7.5.0",
+    "prettier": "^2.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
