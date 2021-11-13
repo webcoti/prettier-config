@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config-webcoti",
+  "name": "@webcoti/prettier-config",
   "version": "1.0.0",
   "description": "shareable config for prettier",
   "keywords": [
@@ -17,7 +17,7 @@
     "release": "np"
   },
   "eslintConfig": {
-    "extends": "webcoti"
+    "extends": "@webcoti/eslint-config"
   },
   "dependencies": {
     "@trivago/prettier-plugin-sort-imports": "^3.1.1",
