@@ -1,9 +1,9 @@
-# prettier-config
+# @webcoti/prettier-config
 
 ## Instalação
 
 ```console
-npm install prettier-config-webcoti --save-dev
+npm install @webcoti/prettier-config --save-dev
 ```
 
 ## Uso
@@ -12,7 +12,7 @@ Adicione ao `package.json`:
 
 ```json
 {
-  "prettier": "prettier-config-webcoti"
+  "prettier": "@webcoti/prettier-config"
 }
 ```
 
