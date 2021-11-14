@@ -5,7 +5,7 @@ module.exports = {
 	semi: false,
 	arrowParens: 'avoid',
 	trailingComma: 'all',
-	importOrder: ['^@[^/](.*)$', '^@/(.*)$'],
+	importOrder: ['^@[^/](.*)$', '^@/(.*)$', '^\\.'],
 	importOrderSeparation: true,
 	importOrderSortSpecifiers: true,
 	importOrderCaseInsensitive: true,
