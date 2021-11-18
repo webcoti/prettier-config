@@ -9,5 +9,4 @@ module.exports = {
 	importOrderSeparation: true,
 	importOrderSortSpecifiers: true,
 	importOrderCaseInsensitive: true,
-	importOrderParserPlugins: ['jsx'],
 }
