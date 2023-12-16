@@ -1,6 +1,6 @@
 {
   "name": "@webcoti/prettier-config",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "description": "shareable config for prettier",
   "keywords": [
     "prettier",
