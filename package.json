@@ -20,12 +20,12 @@
     "extends": "@webcoti/eslint-config"
   },
   "dependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
-    "prettier-plugin-packagejson": "^2.4.3"
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "prettier-plugin-packagejson": "^2.4.7"
   },
   "devDependencies": {
-    "@webcoti/eslint-config": "^1.8.0",
-    "eslint": "^8.34.0",
+    "@webcoti/eslint-config": "^1.9.0",
+    "eslint": "^8.56.0",
     "np": "^7.6.3",
     "prettier": "^2.8.4"
   },
